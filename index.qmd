@@ -1,7 +1,7 @@
 ---
 title: "Melihat hubungan ekspor dan nilai tukar"
 subtitle: "Metode Penelitian Politeknik APP Jakarta"
-author: "I Made Krisna"
+author: "Theresia Anindita"
 date: 2022-08-10
 number-sections: true
 format:
